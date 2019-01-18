@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class Area {
 	float radius, length, breadth, side, altitude, base;
 	double pi = 3.14, area;
