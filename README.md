@@ -1,4 +1,4 @@
-##### Coding-best-practices
+### Coding-best-practices
 
 Calculate the area of:
 - Circle
